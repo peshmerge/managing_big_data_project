@@ -127,4 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-dataset/
+/dataset/2019-q1
+/dataset/2019-q2
+/dataset/2019-q3
+/dataset/2019-q4
+/dataset/2020-q1
+/dataset/2020-q2
+/dataset/2020-q3
+/dataset/2020-q4
+/dataset/2021-q1
+/dataset/2021-q2
+/dataset/2021-q3
+/dataset/backup
